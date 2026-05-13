@@ -1,3 +1,7 @@
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-111827?style=for-the-badge)
+![Password Cracking](https://img.shields.io/badge/Password%20Cracking-DC2626?style=for-the-badge)
+![Human Factors](https://img.shields.io/badge/Human%20Factors-0F766E?style=for-the-badge)
+
 # Physical, Human, and Device Security
 
 **Focus:** Physical and device-layer threats, human error, password security, and password cracking techniques using John the Ripper.
