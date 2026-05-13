@@ -4,7 +4,7 @@
 ![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-1D4ED8?style=for-the-badge)
 ![Criminology](https://img.shields.io/badge/Criminology-4B5563?style=for-the-badge)
 ![Behavioral Analysis](https://img.shields.io/badge/Behavioral%20Analysis-7C3AED?style=for-the-badge)
-![Linguistic IOCs](https://img.shields.io/badge/Linguistic%20IOCs-7C3AED?style=for-the-badge)
+![Linguistic Indicators of Compromise](https://img.shields.io/badge/Linguistic%20Indicators%20of%20Compromise-7C3AED?style=for-the-badge)
 
 # Behavioral Attribution Model (BAM) – Ransomware Research
 
