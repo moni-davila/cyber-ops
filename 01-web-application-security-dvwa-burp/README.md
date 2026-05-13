@@ -16,6 +16,7 @@
 
 ## What this demonstrates
 
-- Standing up a vulnerable web environment (Kali + Metasploitable 2 + DVWA).
-- Configuring and using Burp Suite for interception and testing.
-- Identifying and documenting XSS, CSRF, and SQLi vulnerabilities in a structured way.
+- Ability to build and configure a vulnerable web testing environment using Kali Linux, Metasploitable 2, and DVWA.
+- Experience using Burp Suite to intercept, inspect, and manipulate web traffic during security testing.
+- Understanding of common web vulnerabilities including XSS, CSRF, and SQL injection in a controlled lab setting.
+- Ability to document testing steps, findings, and lessons learned in a structured technical writeup.
