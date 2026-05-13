@@ -11,6 +11,7 @@
 ![Virtualization](https://img.shields.io/badge/Virtualization-4B5563?style=for-the-badge)
 ![Security Education](https://img.shields.io/badge/Security%20Education-D97706?style=for-the-badge)
 ![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge)
+![Linguistic Indicators of Compromise](https://img.shields.io/badge/Linguistic%20Indicators%20of%20Compromise-EAB308?style=for-the-badge)
 
 This repository showcases selected cybersecurity coursework, lab work, and instructional materials developed through the MIT Beaver Works Cyber Operations program and related academic work. It highlights hands-on experience in web application security, adversarial operations, password security, digital footprint analysis, and technical documentation.
 
