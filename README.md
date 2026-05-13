@@ -13,7 +13,7 @@
 ![Security Education](https://img.shields.io/badge/Security%20Education-D97706?style=for-the-badge)
 ![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge)
 
-This repository showcases selected cybersecurity coursework, lab work, and instructional materials developed through the MIT Beaver Works Cyber Operations program and related academic work. It highlights hands-on experience in web application security, adversarial operations, password security, digital footprint analysis, and technical documentation.
+This repository showcases selected cybersecurity coursework, lab work, and instructional materials developed through the MIT Beaver Works Cyber Operations program and related academic projects. It highlights hands-on experience in web application security, adversarial operations, password security, digital footprint analysis, and technical documentation, all independently created and authored.
 
 The portfolio is organized by topic so reviewers can quickly explore projects, labs, and supporting materials through folder-specific README files and linked artifacts.
 
