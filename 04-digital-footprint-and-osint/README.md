@@ -1,3 +1,5 @@
+![Think Before You Post](https://img.shields.io/badge/Think%20Before%20You%20Post-F59E0B?style=for-the-badge)
+
 # Digital Footprint and Online Traceability
 
 **Focus:** Understanding digital traceability, personal data exposure, and the security implications of online activity.
