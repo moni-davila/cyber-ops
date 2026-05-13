@@ -9,7 +9,7 @@
 ![Ransomware](https://img.shields.io/badge/Ransomware-2E8B57?style=for-the-badge)
 ![Linguistic Indicators of Compromise](https://img.shields.io/badge/Linguistic%20Indicators%20of%20Compromise-EAB308?style=for-the-badge)
 ![Incident Response](https://img.shields.io/badge/Incident%20Response-B45309?style=for-the-badge)
-![Virtualization](https://img.shields.io/badge/Virtualization-4B5563?style=for-the-badge)
+![Virtualization](https://img.shields.io/badge/Virtualization-B91C1C?style=for-the-badge)
 ![Security Education](https://img.shields.io/badge/Security%20Education-D97706?style=for-the-badge)
 ![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge)
 
