@@ -5,7 +5,8 @@
 ## Key Artifacts / Links
 
 - [Behavioral Attribution Model (BAM) – Original Research Presentation](https://drive.google.com/file/d/1gsUak3vFOUbge7moBWEM5qNx55lQTxLS/view?usp=sharing)
-- [Original Research Proposal for ISC Symposium](https://docs.google.com/document/d/1tz-9TMnfz6q0zvVp_JcI4lZ_qr05f68-a42zD6SVqhA/edit?usp=sharing))
+- [Original Research Proposal for ISC Symposium]
+- (https://docs.google.com/document/d/1tz-9TMnfz6q0zvVp_JcI4lZ_qr05f68-a42zD6SVqhA/edit?usp=sharing))
 
 ## What this demonstrates
 
