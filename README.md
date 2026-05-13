@@ -2,6 +2,13 @@
 
 This repository showcases selected cybersecurity coursework, lab work, and instructional materials developed through the MIT Beaver Works Cyber Operations program and related academic work. It highlights hands-on experience in web application security, adversarial operations, password security, digital footprint analysis, and technical documentation.
 
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A66C2?style=for-the-badge)
+![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-6A5ACD?style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-8B0000?style=for-the-badge)
+![Ransomware Research](https://img.shields.io/badge/Ransomware%20Research-228B22?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-1A1A1A?style=for-the-badge&logo=kalilinux)
+![Security Education](https://img.shields.io/badge/Security%20Education-FF8C00?style=for-the-badge)
+
 The portfolio is organized by topic so reviewers can quickly explore projects, labs, and supporting materials through folder-specific README files and linked artifacts.
 
 ## Portfolio Areas
