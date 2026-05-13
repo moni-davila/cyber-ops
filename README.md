@@ -1,6 +1,5 @@
 # Cyber Operations Portfolio – Monica Davila
 
-![Linux](https://img.shields.io/badge/Linux-232323?style=for-the-badge&logo=linux&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A66C2?style=for-the-badge)
 ![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-5B4BDB?style=for-the-badge)
