@@ -26,6 +26,11 @@ Examines digital traceability, personal data exposure, and the security implicat
 
 Folder: [`04-digital-footprint-and-osint`](./04-digital-footprint-and-osint)
 
+### 05. Miscellaneous and Future Work
+Reserved for future independent research, lab extensions, and in-progress projects that align with cyber operations, threat intelligence, or security education. For a completed research project in this portfolio, see the BAM ransomware research folder.
+
+Folder: [`05-miscellaneous-and-future-work`](./05-miscellaneous)
+
 ### 6. Ransomware Behavioral Attribution (BAM)
 
 Original research on ransomware ecosystem persistence, state-linked threat actors, and attribution frameworks, including the Behavioral Attribution Model (BAM) and Bayesian Attribution Score (BAS).
