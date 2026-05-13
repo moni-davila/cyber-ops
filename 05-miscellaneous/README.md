@@ -5,7 +5,7 @@
 ## Key Artifacts / Links
 
 - (Reserved for future independent research, lab extensions, or in-progress projects that align with cyber operations, threat intelligence, or security education.)
- For a completed research project in this portfolio, see [06 – BAM Ransomware Behavioral Attribution](../06-bam-ransomware-behavioral-attribution/).
+- (UPDATE) For a completed research project in this portfolio, see [06 – BAM Ransomware Behavioral Attribution](../06-bam-ransomware-behavioral-attribution/).
 
 ## What this demonstrates
 
