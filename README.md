@@ -1,41 +1,59 @@
-# MIT Cyber Operations Portfolio – Monica Davila
+# Cyber Operations Portfolio – Xavier Rodriguez
 
-This repository showcases selected work I did as a Teaching Assitant for MIT Beaver Works Cyber Operations Summer Course, organized by theme. It includes web application security testing, adversarial operations using the MITRE ATT&CK framework, password cracking and human-centered security, and digital footprint analysis.
+This repository showcases selected cybersecurity coursework, lab work, and instructional materials developed through the MIT Beaver Works Cyber Operations program and related academic work. It highlights hands-on experience in web application security, adversarial operations, password security, digital footprint analysis, and technical documentation.
 
-Each section contains lab guides, formal writeups, lecture notes, and supporting artifacts (hosted via Google Drive) that demonstrate hands-on skills in offensive and defensive cybersecurity.
+The portfolio is organized by topic so reviewers can quickly explore projects, labs, and supporting materials through folder-specific README files and linked artifacts.
 
-## Contents
+## Portfolio Areas
 
-1. **Web Application Security & Vulnerability Testing**
-   - Focus: Cross-site scripting (XSS), CSRF, SQL injection, and exploiting common web vulnerabilities in a controlled lab environment.
-   - Tools & Tech: Kali Linux, Metasploitable 2, DVWA, Burp Suite.
-   - Folder: `01-web-application-security-dvwa-burp/`
+### 1. Web Application Security & Vulnerability Testing
+Focuses on common web vulnerabilities including cross-site scripting (XSS), CSRF, and SQL injection in controlled lab environments using Kali Linux, DVWA, Metasploitable 2, and Burp Suite.
 
-2. **Adversarial Operations with MITRE CALDERA**
-   - Focus: Mapping attacker behavior to the MITRE ATT&CK framework, red-team style operations, and agent-based adversary emulation using Caldera.
-   - Artifacts include a presentation (“Mapping the Mind of a Hacker”) and lab writeups analyzing environments before and after agent deployment.
-   - Folder: `02-adversarial-operations-mitre-caldera/`
+Folder: [`01-web-application-security-dvwa-burp`](./01-web-application-security-dvwa-burp)
 
-3. **Physical, Human, and Device Security (Password Cracking & Human Factors)**
-   - Focus: Physical security, human error, and password security through hands-on cracking labs with John the Ripper and discussion of device/endpoint risks.
-   - Includes installation/exploration guides, hash files used for cracking practice, and Discord writeups summarizing findings and group discussion.
-   - Folder: `03-physical-human-device-security-jtr/`
+### 2. Adversarial Operations with MITRE CALDERA
+Covers adversary emulation, MITRE ATT&CK mapping, red-team style operations, and behavioral analysis using MITRE CALDERA.
 
-4. **Digital Footprint & Online Traceability**
-   - Focus: Understanding how personal data and behavior leave a digital footprint, and how this can be used for OSINT, targeting, or security awareness.
-   - Includes lecture notes and a presentation on digital footprint and human-centered security.
-   - Folder: `04-digital-footprint-and-osint/`
+Folder: [`02-adversarial-operations-mitre-caldera`](./02-adversarial-operations-mitre-caldera)
 
-5. **Miscellaneous / Capstone Concept**
-   - Focus: Exploratory work on a Roblox Script Unlocker concept as a potential capstone idea, illustrating interest in platform-specific security and scripting.
-   - Folder: `05-misc-capstone-ideas/`
+### 3. Physical, Human, and Device Security
+Explores password cracking, human error, device-layer threats, and the relationship between user behavior and security risk through guided hands-on exercises.
 
----
+Folder: [`03-physical-human-device-security-jtr`](./03-physical-human-device-security-jtr)
 
-## Artifact Summary
+### 4. Digital Footprint and Online Traceability
+Examines digital traceability, personal data exposure, and the security implications of publicly available information and user activity online.
 
-- 14 documents (.docx)  
-- 2 presentations (.pptx)  
-- 1 hash file (.txt)  
+Folder: [`04-digital-footprint-and-osint`](./04-digital-footprint-and-osint)
 
-Original documents and cloud links are preserved in Google Drive; this repository provides structure, context, and entry points for reviewers.
+### 6. Ransomware Behavioral Attribution (BAM)
+
+Original research on ransomware ecosystem persistence, state-linked threat actors, and attribution frameworks, including the Behavioral Attribution Model (BAM) and Bayesian Attribution Score (BAS).
+
+Folder: [`06-bam-ransomware-behavioral-attribution`](./06-bam-ransomware-behavioral-attribution)
+
+## Skills Demonstrated
+
+- Web application security testing
+- Vulnerability analysis and technical documentation
+- MITRE ATT&CK and adversary emulation concepts
+- Password security and credential risk awareness
+- Human-centered security analysis
+- Digital footprint and online exposure analysis
+- Cybersecurity instruction and presentation development
+
+## Artifact Types
+
+This repository includes or links to:
+- Technical writeups
+- Lab reports
+- Setup guides
+- Presentation slides
+- Lecture notes
+- Supporting lab artifacts
+
+Many original files are hosted in Google Drive and linked within each folder for easier access and organization.
+
+## About Me
+
+Recent Georgetown cybersecurity graduate with hands-on experience in cyber operations, risk management, technical instruction, and student mentorship. Interests include cybersecurity education, human-centered security, adversary behavior analysis, and emerging AI applications in cybersecurity.
