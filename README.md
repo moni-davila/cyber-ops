@@ -1,13 +1,19 @@
 # Cyber Operations Portfolio – Monica Davila
 
-This repository showcases selected cybersecurity coursework, lab work, and instructional materials developed through the MIT Beaver Works Cyber Operations program and related academic work. It highlights hands-on experience in web application security, adversarial operations, password security, digital footprint analysis, and technical documentation.
-
+![Linux](https://img.shields.io/badge/Linux-232323?style=for-the-badge&logo=linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A66C2?style=for-the-badge)
-![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-6A5ACD?style=for-the-badge)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-8B0000?style=for-the-badge)
-![Ransomware Research](https://img.shields.io/badge/Ransomware%20Research-228B22?style=for-the-badge)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-1A1A1A?style=for-the-badge&logo=kalilinux)
-![Security Education](https://img.shields.io/badge/Security%20Education-FF8C00?style=for-the-badge)
+![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-5B4BDB?style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-A02020?style=for-the-badge)
+![Adversary Emulation](https://img.shields.io/badge/Adversary%20Emulation-7B3FE4?style=for-the-badge)
+![Web Application Security](https://img.shields.io/badge/Web%20Application%20Security-0F766E?style=for-the-badge)
+![Ransomware](https://img.shields.io/badge/Ransomware-2E8B57?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-B45309?style=for-the-badge)
+![Virtualization](https://img.shields.io/badge/Virtualization-4B5563?style=for-the-badge)
+![Security Education](https://img.shields.io/badge/Security%20Education-D97706?style=for-the-badge)
+![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge)
+
+This repository showcases selected cybersecurity coursework, lab work, and instructional materials developed through the MIT Beaver Works Cyber Operations program and related academic work. It highlights hands-on experience in web application security, adversarial operations, password security, digital footprint analysis, and technical documentation.
 
 The portfolio is organized by topic so reviewers can quickly explore projects, labs, and supporting materials through folder-specific README files and linked artifacts.
 
