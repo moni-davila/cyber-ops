@@ -1,3 +1,9 @@
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-A02020?style=for-the-badge)
+![MITRE CALDERA](https://img.shields.io/badge/MITRE%20CALDERA-1F2937?style=for-the-badge)
+![Adversary Emulation](https://img.shields.io/badge/Adversary%20Emulation-7C3AED?style=for-the-badge)
+![Red Team Tooling](https://img.shields.io/badge/Red%20Team%20Tooling-DC2626?style=for-the-badge)
+![Behavioral Analysis](https://img.shields.io/badge/Behavioral%20Analysis-0F766E?style=for-the-badge)
+
 # Adversarial Operations with MITRE CALDERA
 
 **Focus:** ATT&CK framework mapping, red-team tooling, adversary emulation, and behavioral analysis using MITRE CALDERA.
