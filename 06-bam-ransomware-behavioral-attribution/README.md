@@ -1,6 +1,13 @@
+![OSINT](https://img.shields.io/badge/OSINT-1D4ED8?style=for-the-badge)
+![Ransomware](https://img.shields.io/badge/Ransomware-DC2626?style=for-the-badge)
+![Bridging the Cyber Attribution Gap](https://img.shields.io/badge/Bridging%20the%20Cyber%20Attribution%20Gap-0F766E?style=for-the-badge)
+![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-1D4ED8?style=for-the-badge)
+![Criminology](https://img.shields.io/badge/Criminology-4B5563?style=for-the-badge)
+![Behavioral Analysis](https://img.shields.io/badge/Behavioral%20Analysis-7C3AED?style=for-the-badge)
+
 # Behavioral Attribution Model (BAM) – Ransomware Research
 
-**Focus:** Criminological and behavioral attribution framework for ransomware ecosystems, with emphasis on state-linked and state-tolerated threat actors.
+**Focus:** Criminological and behavioral attribution framework for ransomware ecosystems, with emphasis on Russia-linked and state-tolerated threat actors and closing gaps in existing cyber attribution standards.
 
 ## Key Artifacts / Links
 
