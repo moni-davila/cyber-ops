@@ -1,3 +1,8 @@
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploitable 2](https://img.shields.io/badge/Metasploitable%202-8B0000?style=for-the-badge)
+![DVWA](https://img.shields.io/badge/DVWA-404040?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F97316?style=for-the-badge)
+
 # Web Application Security & Vulnerability Testing
 
 **Focus:** Cross-site scripting (XSS), CSRF, SQL injection, and vulnerability exploitation in web environments.
