@@ -4,8 +4,13 @@
 
 ## Key Artifacts / Links
 
-- (Reserved for future independent research, lab extensions, or in-progress projects that align with cyber operations, threat intelligence, or security education.)
-- (UPDATE) For a completed research project in this portfolio, see [06 – BAM Ransomware Behavioral Attribution](../06-bam-ransomware-behavioral-attribution/).
+- [Smart Cities (2024)](https://docs.google.com/presentation/d/1uQjB4yzBznvY4JIrfiIBdkB-lkvcMPoKU5jA0XR_UIE/edit?usp=sharing)
+- -  [EMERGING CYBERSECURITY TREND:
+CYBER ARMS RACE (2024)](https://docs.google.com/presentation/d/1o9aAL-DWqN9XHKDkgQyeAbI7N3hEcSXVks7Mdx_05dQ/edit?usp=sharing)
+- [Learn Some Art History Here 1 (2023)](https://docs.google.com/presentation/d/15IbDVWr6XmtpD3qdWsUpmmk01Pvb7lzlU-7FVwzb0m8/edit?usp=sharing)
+- [Learn Some Art History Here 2 (2023)](https://docs.google.com/presentation/d/1gQrQU9GzOX3BzvoKIw0ekRiY4JfGe6OMV6-O7PQAsLU/edit?usp=sharing)
+- [It's a BioBlitz! (2020)](https://docs.google.com/presentation/d/1H5G5GJgAo8HHOTJQDKkjMUpUD8j85yoJdLGKKXmIzrg/edit?usp=sharing)
+- [America's Ongoing Tolerance of Marijuana (2019)](https://docs.google.com/presentation/d/1CxwPs5on_1nw7DytlcamLcjtE91crmWdJGr8NEx7_O0/edit?usp=sharing)
 
 ## What this demonstrates
 
