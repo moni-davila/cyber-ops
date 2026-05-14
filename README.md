@@ -1,16 +1,15 @@
 # Cyber Operations Portfolio – Monica Davila
 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A66C2?style=for-the-badge)
-![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-5B4BDB?style=for-the-badge)
+![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-1D4ED8?style=for-the-badge)
+![Web Application Security](https://img.shields.io/badge/Web%20App%20Security-0F766E?style=for-the-badge)
+![Adversary Emulation](https://img.shields.io/badge/Adversary%20Emulation-7C3AED?style=for-the-badge)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-A02020?style=for-the-badge)
-![Adversary Emulation](https://img.shields.io/badge/Adversary%20Emulation-7B3FE4?style=for-the-badge)
-![Web Application Security](https://img.shields.io/badge/Web%20Application%20Security-0F766E?style=for-the-badge)
-![Ransomware](https://img.shields.io/badge/Ransomware-2E8B57?style=for-the-badge)
-![Linguistic Indicators of Compromise](https://img.shields.io/badge/Linguistic%20Indicators%20of%20Compromise-EAB308?style=for-the-badge)
+![MITRE CALDERA](https://img.shields.io/badge/MITRE%20CALDERA-1F2937?style=for-the-badge)
 ![Incident Response](https://img.shields.io/badge/Incident%20Response-B45309?style=for-the-badge)
-![Virtualization](https://img.shields.io/badge/Virtualization-C026D3?style=for-the-badge)
-![Security Education](https://img.shields.io/badge/Security%20Education-D97706?style=for-the-badge)
+![Ransomware](https://img.shields.io/badge/Ransomware-DC2626?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Security Education](https://img.shields.io/badge/Security%20Education-F59E0B?style=for-the-badge)
 ![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge)
 
 This repository showcases selected cybersecurity coursework, lab work, and instructional materials developed through the MIT Beaver Works Cyber Operations program and related academic projects. It highlights hands-on experience in web application security, adversarial operations, password security, digital footprint analysis, and technical documentation, all independently created and authored.
