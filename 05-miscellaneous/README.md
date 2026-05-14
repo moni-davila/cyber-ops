@@ -5,7 +5,7 @@
 ## Key Artifacts / Links
 
 - [Smart Cities (2024)](https://docs.google.com/presentation/d/1uQjB4yzBznvY4JIrfiIBdkB-lkvcMPoKU5jA0XR_UIE/edit?usp=sharing)
-- -  [EMERGING CYBERSECURITY TREND:
+- [EMERGING CYBERSECURITY TREND:
 CYBER ARMS RACE (2024)](https://docs.google.com/presentation/d/1o9aAL-DWqN9XHKDkgQyeAbI7N3hEcSXVks7Mdx_05dQ/edit?usp=sharing)
 - [Learn Some Art History Here 1 (2023)](https://docs.google.com/presentation/d/15IbDVWr6XmtpD3qdWsUpmmk01Pvb7lzlU-7FVwzb0m8/edit?usp=sharing)
 - [Learn Some Art History Here 2 (2023)](https://docs.google.com/presentation/d/1gQrQU9GzOX3BzvoKIw0ekRiY4JfGe6OMV6-O7PQAsLU/edit?usp=sharing)
