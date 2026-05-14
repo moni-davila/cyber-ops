@@ -69,7 +69,7 @@ This repository includes or links to:
 - Lecture notes
 - Supporting lab artifacts
 
-Many original files are hosted in Google Drive and linked within each folder for easier access and organization.
+Many original files are hosted in Google Drive for easier access and organization.
 
 ## About Monica
 
