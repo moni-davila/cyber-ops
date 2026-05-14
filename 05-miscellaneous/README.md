@@ -14,6 +14,8 @@ CYBER ARMS RACE (2024)](https://docs.google.com/presentation/d/1o9aAL-DWqN9XHKDk
 
 ## What this demonstrates
 
-- Willingness to explore and iterate on new security-related ideas outside of formal coursework.
-- Interest in developing original projects that build on core skills in cyber operations, threat intelligence, and human-centered security.
+- Willingness to explore and iterate on ideas outside of formal coursework.
+- Curiosity that extends into smart cities, emerging cyber trends, art, environmental science, and social attitudes.
+- Ability to research, synthesize, and present complex topics in clear, engaging slide formats for diverse audiences.
+- A habit of connecting technology, society, and culture.
 - Openness to expanding this portfolio with additional hands-on labs, research artifacts, or tool development as skills and experience grow.
