@@ -70,6 +70,6 @@ This repository includes or links to:
 
 Many original files are hosted in Google Drive for easier access and organization.
 
-## About Monica
+## ★About Monica★
 
 Recent Georgetown cybersecurity graduate with hands-on experience in cyber operations, risk management, technical instruction, and student mentorship. Interests include cybersecurity education, human-centered security, adversary behavior analysis, and emerging AI applications in cybersecurity.
