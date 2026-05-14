@@ -9,7 +9,6 @@
 ![Incident Response](https://img.shields.io/badge/Incident%20Response-B45309?style=for-the-badge)
 ![Ransomware](https://img.shields.io/badge/Ransomware-DC2626?style=for-the-badge)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Password Cracking](https://img.shields.io/badge/Password%20Cracking-DC2626?style=for-the-badge)
 ![Security Education](https://img.shields.io/badge/Security%20Education-F59E0B?style=for-the-badge)
 ![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge)
 
