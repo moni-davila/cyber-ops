@@ -10,7 +10,6 @@
 ![Ransomware](https://img.shields.io/badge/Ransomware-DC2626?style=for-the-badge)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Security Education](https://img.shields.io/badge/Security%20Education-F59E0B?style=for-the-badge)
-![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge)
 
 This repository showcases selected cybersecurity coursework, lab work, and instructional materials developed through the MIT Beaver Works Cyber Operations program and related academic projects. It highlights hands-on experience in web application security, adversarial operations, password security, digital footprint analysis, and technical documentation, all independently created and authored.
 
